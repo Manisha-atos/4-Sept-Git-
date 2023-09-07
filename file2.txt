@@ -8,3 +8,5 @@ Peoplesoft
 Python
 SQL
 ML
+C
+C++
