@@ -1,6 +1,9 @@
 apple
 mango
+Orange
 banana
 manisha
 Ayansh
 Manisha wants to update
+Updated the file
+
