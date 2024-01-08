@@ -4,3 +4,9 @@ github
 docker
 kubernetes
 azure
+Peoplesoft
+Python
+SQL
+ML
+C
+C++
